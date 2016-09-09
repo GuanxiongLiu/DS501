@@ -12,3 +12,4 @@ This repo is used to store the case study ipython notebook files and all other f
 ## Check in:
 * Abhishek Easwaran
 * naveen pothayath
+* Guanxiong Liu
