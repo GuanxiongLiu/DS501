@@ -7,4 +7,4 @@
 * Jiankun Bi
 
 ## Description:
-This repo is used to store the case study ipython notebook files and all other files which are related to homeworks.<\p>
+This repo is used to store the case study ipython notebook files and all other files which are related to homeworks.
